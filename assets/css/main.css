@@ -377,7 +377,7 @@ footer {
   padding: 1.875rem 0;
   background: #EAEAEA;
   border-top: 1px #EAEAEA solid;
-  margin-top: 3.125rem;
+  margin-top: 0rem;
   font-size: 0.75rem;
   {% if site.footer-col %}
   background: {{ site.footer-col }};
