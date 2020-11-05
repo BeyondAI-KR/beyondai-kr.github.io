@@ -23,11 +23,6 @@ cover-img:
 		<h4>Human &amp; AI Ecosystem</h4>
 		사람과 인공지능이 자연스럽고 조화롭게 공존하는 디지털 라이프 패러다임을 만들고자 합니다. 보유하고 있는 AI IPR을 기반으로 인간을 위한 혁신적인 AI 기술과 서비스 개발을 통해 비즈니스 성과는 물론, 미래적인 사회적 가치 활동을 함께 해나가겠습니다.
 		</div>
-	<ul class="icons major">
-        <li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
-        <li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
-        <li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
-    </ul>
     </div>
 </section>
 
