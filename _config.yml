@@ -30,7 +30,7 @@ baseurl: ""
 navbar-links:
   회사소개: "aboutme"
   보유기술 및 서비스: "aboutme"
-  Contact Us: "aboutme"
+  Contact Us: "contactus"
 #  Resume | CV: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
 
@@ -156,6 +156,12 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true      
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
