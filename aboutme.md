@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+title: 회사소개
+subtitle: "인공지능으로 세상을 바꾸고자 만들어진 기업 ! <br> 새로운 인공지능 기술을 창조해나가는 기업 ! <br> 비욘드아이(BEYONDAI) 입니다."
 ---
 
 <div id="aboutme-section">
@@ -36,15 +36,4 @@ Also, I am very fond of video games, I love to create digital art and play aroun
 Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
 </p>
 
-
-<center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
 <br>
-
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
-<br><br>
-<center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Anudit"></center>
-<br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
