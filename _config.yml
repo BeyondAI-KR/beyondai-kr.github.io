@@ -14,7 +14,7 @@ author: "대표이사 김경월"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.anudit.in/"
+url: "https://www.beyondai.co.kr/"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -71,16 +71,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
+ email: "beyondai0808@gmail.com"
+# facebook: anuditverma
+  github: beyondai-kr
+# twitter: anuditverma
 # reddit: yourname
-  linkedin: anuditverma
+# linkedin: anuditverma
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-  instagram: anuditverma
+# instagram: anuditverma
   rss: false
 # youtube: user/yourname
 # spotify: yourname
@@ -95,20 +95,20 @@ social-network-links:
 # google-scholar: citations?user=4p4smu0AAAAJ
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "anudit.in"
+url-pretty: "www.beyondai.co.kr"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+# jgson google_analytics: "UA-84991519-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -116,7 +116,7 @@ google_analytics: "UA-84991519-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+disqus: "BeyondAI"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
@@ -140,7 +140,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
