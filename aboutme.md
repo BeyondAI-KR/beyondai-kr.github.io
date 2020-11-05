@@ -2,6 +2,8 @@
 layout: page
 title: 회사소개
 subtitle: "인공지능으로 세상을 바꾸고자 만들어진 기업 ! <br> 새로운 인공지능 기술을 창조해나가는 기업 ! <br> 비욘드아이(BEYONDAI) 입니다."
+cover-img:
+  - "/assets/img/banner.jpg"
 ---
 
 <div id="aboutme-section">
