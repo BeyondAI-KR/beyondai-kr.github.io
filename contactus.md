@@ -18,6 +18,11 @@ title: Contact Us
 
 
 <p>
+<div id="map" class="mgb45" style="height:300px;background:#f7f7f7;"></div>
+<style type="text/css">
+.daum_map { padding:1px 5px; margin-top:-65px; font-size:12px; background-color:#fff;border: 1px solid #999; border-radius:3px; -webkit-border-radius:3px;z-index:999999 }
+.daum_map_arrow {position:absolute; bottom:30px; left:50%; margin-left:-6px; width:12px; height:9px; background: url("https://t1.daumcdn.net/localimg/localimages/07/mapjsapi/triangle.png") 50% 50% no-repeat;}
+</style>
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
     mapOption = { 
