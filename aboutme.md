@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/banner.jpg"
 ---
 
-## 비젼 및 핵심가치
+## 비젼 및 핵심가치   
 
 
 
