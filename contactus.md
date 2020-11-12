@@ -17,7 +17,7 @@ title: Contact Us
 지하철 3호선 양재역 -> 양재전화국사거리쪽 도보 5분 거리
 
 
-
+<p>
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
     mapOption = { 
@@ -54,3 +54,4 @@ var marker = new daum.maps.Marker({
 marker.setMap(map);
 
 </script>
+</p>
