@@ -7,4 +7,4 @@ title: Contact Us
 <br>
 서울 서초구 남부순환로 2636, 501-에이4호
 
-![map]: ./assets/img/map.png
+![map](./assets/img/map.png)
