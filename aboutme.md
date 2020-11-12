@@ -8,8 +8,6 @@ cover-img:
 
 ## 비젼 및 핵심가치   
 <br>
-<br>
-
 
 #### Technology Holdings
 BeyondAI의 혁신적인 AI 분야 IPR을 바탕으로 사업화 유망기술을 발굴하고, 비즈니스 모델 설계와 사업화 전략수립 등 R&amp;BD 전 단계를 지원할 수 있는 기술지주회사로 발전하고자 합니다.   
