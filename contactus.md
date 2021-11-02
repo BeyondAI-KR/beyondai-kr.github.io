@@ -9,7 +9,7 @@ title: Contact Us
 
 ---
 
-![map](./assets/img/map.png)
+![map](./assets/img/map.jpg)
 
 
 #### 오시는 길
